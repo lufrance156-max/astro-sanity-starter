@@ -30,3 +30,9 @@
     --color-base-200: #d7d8e4;
     --color-base-content: #171227;
 }
+.hero-background {
+  background-image: url('/background.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
